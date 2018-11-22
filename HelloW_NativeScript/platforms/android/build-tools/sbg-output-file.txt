@@ -1,0 +1,1 @@
+G:\CommitConf_2018\HelloW_NativeScript\platforms\android\app/src/main/java
